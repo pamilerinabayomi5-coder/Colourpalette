@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.21.0
+Pillow==10.4.0
+colorthief==0.2.1
+requests==2.32.3
